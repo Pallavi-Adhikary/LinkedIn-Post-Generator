@@ -1,5 +1,3 @@
-# LinkedIn-Post-Generator
-
 # **GenAI-LinkedIn-Post-Generator**
 
 ## **Project Overview**
