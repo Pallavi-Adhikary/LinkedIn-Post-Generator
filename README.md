@@ -1,4 +1,8 @@
-# **GenAI-LinkedIn-Post-Generator**
+# **GenAI-LinkedIn-Post-Generator** 
+
+**Check it out here**
+https://pallavi-adhikary-linkedin-post-generator-main-dj4p5x.streamlit.app/
+
 
 ## **Project Overview**
 
